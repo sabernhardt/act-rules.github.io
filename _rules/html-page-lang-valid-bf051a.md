@@ -98,7 +98,7 @@ This `html` element has a `lang` attribute, with no [known primary language tag]
 
 #### Failed Example 2
 
-This `html` element has a `lang` attribute, but it is not a [known primary language tag][].
+This `html` element has a `lang` attribute, with no [known primary language tag][].
 
 ```html
 <html lang="#1"></html>
